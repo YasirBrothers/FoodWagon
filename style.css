@@ -1,0 +1,58 @@
+.navbar-brand>img{
+    width: 250px;
+}
+
+
+
+.btns{
+    background-color: transparent;
+    color: #FFB800;
+    font-weight: bold;
+    border: none;
+}
+
+.deliver{
+    font-weight: bold;
+}
+
+span{
+    font-weight:500;
+   
+}
+
+.main{
+    background-color:orange;
+    height: 80vh;
+}
+.main-1>h1{
+    font-size: 58px;
+    color: white;
+    font-weight: bold;
+    margin-top: 70px;
+}
+.main-1{
+    background-color: transparent;
+    height: 80vh;
+}
+
+.main-2{
+    background-color: transparent;
+    height: 80vh;
+}
+
+.main-2>img{
+    margin-top: 85px;
+    height: 400px;
+}
+
+.delivery>img{
+    width: 120px;
+}
+.nav{
+    width: 700px;
+}
+
+.but{
+    width: 150px;
+}
+
